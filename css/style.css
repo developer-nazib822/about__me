@@ -107,16 +107,11 @@ img {
 /* Header-Section Start */
 
 .sticky {
-    top: 0 !important;
-    width: 100%;
-    position: fixed !important;
+    
     background: #fff;
     transition: all .8s ease-in-out;
     box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
-    -webkit-transition: all .8s ease-in-out;
-    -moz-transition: all .8s ease-in-out;
-    -ms-transition: all .8s ease-in-out;
-    -o-transition: all .8s ease-in-out;
+    
 }
 
 header {
